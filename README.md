@@ -3,6 +3,10 @@
 This is an Unreal game I am making alongside this [Game Development Course]( http://gdev.tv/urcgithub) made by
 [Ben Tristem]( https://github.com/BenTristem ) & [Sam Pattuzzi](https://github.com/sampattuzzi)
 
+## Exe location
+/BattleTank/Binaries/Win64/BattleTank.exe
+
+![](tank.png)
 
 ### Game Design Document
 Large scale Tank Battle
